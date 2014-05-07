@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 278740c96720b452ebc0f83412f93051
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bariumPrefab: {fileID: 100366, guid: 07d374282afea48ae98c4fbe041b431f, type: 2}
+  - uraniumPrefab: {fileID: 100304, guid: 533f2b56d138b4fb987d3cd6a9f5d2f2, type: 2}
+  - kryptonPrefab: {fileID: 100000, guid: c3f7a9e70d1e74485b71fa5ae28a8d9b, type: 2}
+  - neutronPrefab: {fileID: 100000, guid: 1a882e2c3dcfe4d3c932fc89f53c8975, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
